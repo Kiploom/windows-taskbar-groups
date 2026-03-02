@@ -16,9 +16,9 @@
 
   <ItemGroup>
     <Content Include="Assets\**" />
-    <PackageReference Include="Microsoft.WindowsAppSDK" Version="1.5.240822001" />
+    <PackageReference Include="Microsoft.WindowsAppSDK" Version="1.5.241001000" />
     <PackageReference Include="Microsoft.Windows.SDK.BuildTools" Version="10.0.22621.2428" />
-    <PackageReference Include="H.NotifyIcon.WinUI" Version="2.3.0" />
-    <PackageReference Include="System.Drawing.Common" Version="8.0.0" />
+    <PackageReference Include="H.NotifyIcon.WinUI" Version="2.1.4" />
+    <PackageReference Include="System.Drawing.Common" Version="8.0.10" />
   </ItemGroup>
 </Project>
